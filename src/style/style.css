@@ -1,0 +1,15 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background-color: black;
+}
+#tanda {
+  color: #bd7209;
+}
+#trailer {
+  background-color: black;
+}
+nav-bar a {
+  margin-left: 115px;
+}
